@@ -29,3 +29,4 @@ Replace `myenv` with your desired environment name and `package_name` with the p
     ```bash
     conda env create -f environment.yml
     ```
+environment will be made named witth **coreml**
